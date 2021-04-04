@@ -1,0 +1,16 @@
+{
+  "name": "bosurl",
+  "version": "1.0.0",
+  "description": "Url Shortener",
+  "main": "index.js",
+  "baseUrl": "https://jsair.io",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "shorten": "netlify-shortener"
+  },
+  "author": "bosey",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
